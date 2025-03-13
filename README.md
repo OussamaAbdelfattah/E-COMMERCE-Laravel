@@ -104,4 +104,4 @@ Ce projet est un site web complet avec une interface utilisateur et une interfac
 ## Installation
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/mon-site-web.git
+   git clone https://github.com/OussamaAbdelfattah/E-COMMERCE-Laravel.git
