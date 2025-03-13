@@ -14,7 +14,6 @@ Ce projet est un site web complet avec une interface utilisateur et une interfac
 - **API IA** : Gemini (pour la génération de texte), Hugging Face (pour la génération d'images)
 
 ## Fonctionnalités principales
-
 ### Interface Utilisateur
 1. **Connexion et Inscription** :
    - Les utilisateurs peuvent créer un compte et se connecter.
@@ -83,6 +82,8 @@ Ce projet est un site web complet avec une interface utilisateur et une interfac
 
 #### Gestion des produits
 <img width="1680" alt="Capture d’écran 2025-03-13 à 21 01 12" src="https://github.com/user-attachments/assets/35e194c1-3859-48b4-9420-c5e87e22cfe2" />
+<img width="1680" alt="Capture d’écran 2025-03-13 à 21 07 48" src="https://github.com/user-attachments/assets/5e9ea5d5-20b6-4186-a133-4a382d970a17" />
+
 <img width="1680" alt="Capture d’écran 2025-03-13 à 21 01 25" src="https://github.com/user-attachments/assets/04bc7598-ed07-4aae-8174-3e15eeaefdd6" />
 
 #### Gestion des catégories 
