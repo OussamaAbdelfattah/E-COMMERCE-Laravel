@@ -91,6 +91,8 @@ Ce projet est un site web complet avec une interface utilisateur et une interfac
 #### Gestion des commandes
 <img width="1680" alt="Capture d’écran 2025-03-13 à 21 02 46" src="https://github.com/user-attachments/assets/886ee775-8a5f-4d64-a1d0-23e4942ba76c" />
 <img width="1680" alt="Capture d’écran 2025-03-13 à 21 05 39" src="https://github.com/user-attachments/assets/2866e2c0-f4ae-446a-81f8-62acd878e5ac" />
+<img width="1680" alt="Capture d’écran 2025-03-13 à 21 07 08" src="https://github.com/user-attachments/assets/d4e8e5a3-f0fa-41e3-93f2-59bc2428fede" />
+
 
 #### Gestion des utilisateurs
 <img width="1680" alt="Capture d’écran 2025-03-13 à 21 03 02" src="https://github.com/user-attachments/assets/d2c6e81e-d597-4776-b549-3a849ad15748" />
