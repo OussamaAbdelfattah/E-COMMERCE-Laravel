@@ -1,4 +1,4 @@
-<img width="1680" alt="Capture d’écran 2025-03-13 à 20 57 58" src="https://github.com/user-attachments/assets/a5bf0a79-b12a-4027-8f39-3f692ccd41a9" /># E_COMMERCE
+# E_COMMERCE
 
 ## Description du projet
 Ce projet est un site web complet avec une interface utilisateur et une interface d'administration. Il inclut les fonctionnalités suivantes :
@@ -59,27 +59,44 @@ Ce projet est un site web complet avec une interface utilisateur et une interfac
 
 ### Interface Utilisateur
 #### Page d'accueil
-![SignIn]
+
 <img width="1680" alt="Capture d’écran 2025-03-13 à 20 58 51" src="https://github.com/user-attachments/assets/f1aaa2cf-8f6a-44c9-847c-cb98671be50a" />
+
 <img width="1680" alt="Capture d’écran 2025-03-13 à 20 59 01" src="https://github.com/user-attachments/assets/10e4c3b6-6afc-434d-9e48-23baebc96295" />
 
 <img width="1680" alt="Capture d’écran 2025-03-13 à 20 56 55" src="https://github.com/user-attachments/assets/c16c6006-3a8f-4bcb-baa1-02d9ab1feae8" />
+
 <img width="1680" alt="Capture d’écran 2025-03-13 à 20 57 43" src="https://github.com/user-attachments/assets/c20b735b-7201-49b8-ac0a-84f157c8a886" />
+
 <img width="1680" alt="Capture d’écran 2025-03-13 à 20 58 08" src="https://github.com/user-attachments/assets/d516c582-aa31-4150-af3a-899c2c273314" />
+
 <img width="1680" alt="Capture d’écran 2025-03-13 à 20 58 18" src="https://github.com/user-attachments/assets/65034f3f-24bc-47d0-8694-f4e9143e3602" />
 
 #### Panier
-![Panier](screenshots/cart.png)
+<img width="1680" alt="Capture d’écran 2025-03-13 à 21 00 27" src="https://github.com/user-attachments/assets/a3e39db4-f0f1-4d80-bd54-69d93ad6b889" />
+
 
 ### Interface Admin
 #### Tableau de bord
-![Tableau de bord](screenshots/admin_dashboard.png)
+<img width="1680" alt="Capture d’écran 2025-03-13 à 21 01 01" src="https://github.com/user-attachments/assets/e0cff9bb-e527-4e6a-b8fb-eb7cc7ccabe0" />
+
 
 #### Gestion des produits
-![Gestion des produits](screenshots/admin_products.png)
+<img width="1680" alt="Capture d’écran 2025-03-13 à 21 01 12" src="https://github.com/user-attachments/assets/35e194c1-3859-48b4-9420-c5e87e22cfe2" />
+<img width="1680" alt="Capture d’écran 2025-03-13 à 21 01 25" src="https://github.com/user-attachments/assets/04bc7598-ed07-4aae-8174-3e15eeaefdd6" />
 
-#### Ajout de produit avec IA
-![Ajout de produit avec IA](screenshots/admin_add_product.png)
+#### Gestion des catégories 
+<img width="1680" alt="Capture d’écran 2025-03-13 à 21 02 00" src="https://github.com/user-attachments/assets/3ac69155-ec27-483d-91e9-edf3c44866fe" />
+
+#### Gestion des commandes
+<img width="1680" alt="Capture d’écran 2025-03-13 à 21 02 46" src="https://github.com/user-attachments/assets/886ee775-8a5f-4d64-a1d0-23e4942ba76c" />
+<img width="1680" alt="Capture d’écran 2025-03-13 à 21 05 39" src="https://github.com/user-attachments/assets/2866e2c0-f4ae-446a-81f8-62acd878e5ac" />
+
+#### Gestion des utilisateurs
+<img width="1680" alt="Capture d’écran 2025-03-13 à 21 03 02" src="https://github.com/user-attachments/assets/d2c6e81e-d597-4776-b549-3a849ad15748" />
+
+
+
 
 ## Installation
 1. Clonez le dépôt :
