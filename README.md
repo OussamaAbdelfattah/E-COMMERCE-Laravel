@@ -1,4 +1,4 @@
-# Mon Site Web
+# E_COMMERCE
 
 ## Description du projet
 Ce projet est un site web complet avec une interface utilisateur et une interface d'administration. Il inclut les fonctionnalités suivantes :
