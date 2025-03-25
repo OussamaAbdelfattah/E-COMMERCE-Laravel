@@ -47,12 +47,7 @@ class RegisterController extends Controller
      */
     protected function redirectTo()
     {
-        // Vérifiez si l'utilisateur est un administrateur
-        if (Auth::user()->is_admin) {
-            return '/admin/dashboard'; // Redirection pour l'admin
-        } else {
-            return '/'; // Redirection pour les utilisateurs normaux
-        }
+        return '/'; // Redirection pour les utilisateurs normaux
     }
 
     /**
